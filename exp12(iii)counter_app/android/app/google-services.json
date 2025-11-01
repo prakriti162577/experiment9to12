@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506473192005",
+    "project_id": "counter-auth-app-addea",
+    "storage_bucket": "counter-auth-app-addea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506473192005:android:d0d43c636f758c2a3fa12c",
+        "android_client_info": {
+          "package_name": "com.example.counter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAac7IlwEod-aY3x8DNS-ADvGDbLUWT4wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
